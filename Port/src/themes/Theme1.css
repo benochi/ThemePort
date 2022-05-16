@@ -1,0 +1,90 @@
+.Theme1{
+  background: linear-gradient(to top right, rgb(41, 41, 41), gold);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2), -2px -2px 5px rgba(0, 0, 0, 0.2);
+  min-height: 2000px;
+  font-weight: bold;
+}
+
+.accordion-item{
+  background: linear-gradient(black, gold);
+  color: white;
+  font-weight: normal;
+}
+
+.accordion-header{
+  background: linear-gradient(black,gold);
+  color: white;
+}
+
+.accordion-button{
+  background: linear-gradient(black, gold);
+  color: white !important;
+  font-weight: bold;
+  
+}
+
+.accordion-collapse{
+  background: linear-gradient(to top right, #000000, #9b870c);
+}
+
+.accordion-body{
+  background: linear-gradient(to bottom left, #000000, #9b870c);
+}
+
+.btn {
+  background: linear-gradient(black, gold);
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+
+.container1{
+  padding: 2px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background: linear-gradient(black, gold);
+  min-height: 500px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  
+}
+
+.container2{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 2px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background: linear-gradient(black, gold);
+  border-radius: 2px;
+  border-style: solid;
+  border-color: gold;
+  max-width: 99%;
+}
+
+.container2 p{
+  border-color: gold;
+}
+
+.container2 .btn{
+  border-color: black;
+  border-width: 3px;
+}
+
+p {
+  padding: 5px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  color: white;
+  margin: 5px;
+  font-weight: normal;
+  background: linear-gradient(to top, #000000, #9b870c);
+}

@@ -21,13 +21,12 @@ function AccordionPiece(){
           </AccordionHeader>
           <AccordionBody accordionId="1">
             <strong>
-              Item 1 of accordion.
+              This is the first item of accordion body.
             </strong>
-            You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the{' '}
-            <code>
-              .accordion-body
-            </code>
-            , though the transition does limit overflow.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </AccordionBody>
         </AccordionItem>
         <AccordionItem>
@@ -38,11 +37,10 @@ function AccordionPiece(){
             <strong>
               This is the second item's accordion body.
             </strong>
-            You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the{' '}
-            <code>
-              .accordion-body
-            </code>
-            , though the transition does limit overflow.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </AccordionBody>
         </AccordionItem>
         <AccordionItem>
@@ -53,11 +51,10 @@ function AccordionPiece(){
             <strong>
               This is the third item's accordion body.
             </strong>
-            You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the{' '}
-            <code>
-              .accordion-body
-            </code>
-            , though the transition does limit overflow.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </AccordionBody>
         </AccordionItem>
       </UncontrolledAccordion>

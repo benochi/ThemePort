@@ -1,0 +1,64 @@
+.Theme4{
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2), -2px -2px 5px rgba(0, 0, 0, 0.2);
+  min-height: 2000px;
+  font-weight: bold;
+}
+
+.btn4 {
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  color: rgb(58, 58, 58);
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+
+.containerT41{
+  padding: 2px;
+  text-align: center;
+  color: rgb(58, 58, 58);
+  font-weight: bold;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  min-height: 500px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  
+}
+
+.containerT42{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 2px;
+  text-align: center;
+  color: rgb(58, 58, 58);
+  font-weight: bold;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  max-width: 99%;
+}
+
+.container4 .p4{
+  border-color: black;
+}
+
+.container4 .btn{
+  border-color: black;
+  border-width: 3px;
+}
+
+.p4 {
+  padding: 5px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: black;
+  color: rgb(58, 58, 58);
+  margin: 5px;
+  font-weight: normal;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}

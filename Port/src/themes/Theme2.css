@@ -1,16 +1,20 @@
 .Theme2{
-  background: linear-gradient(to top right, rgb(46, 109, 65), rgb(25, 0, 168));
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+              linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+              linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2), -2px -2px 5px rgba(0, 0, 0, 0.2);
   min-height: 2000px;
   font-weight: bold;
 }
 
 .btn2 {
-  background: linear-gradient(rgb(46, 109, 65), rgb(25, 0, 168));
-  color: white;
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+              linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+              linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+  color: black;
   font-weight: bold;
-  padding: 5px;
-  border-radius: 2px;
+  padding: 10px;
+  border-radius: 50px;
   border-style: solid;
   border-color: black;
   border-width: 3px;
@@ -19,11 +23,13 @@
 .containerT21{
   padding: 2px;
   text-align: center;
-  color: white;
+  color: black;
   font-weight: bold;
-  background: linear-gradient(rgb(46, 109, 65), rgb(25, 0, 168));
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+              linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+              linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
   min-height: 500px;
-  border-radius: 2px;
+  border-radius: 50px;
   border-style: solid;
   border-color: black;
   
@@ -34,17 +40,20 @@
   margin-bottom: 5px;
   padding: 2px;
   text-align: center;
-  color: white;
+  color: black;
   font-weight: bold;
-  background: linear-gradient(rgb(46, 109, 65), rgb(25, 0, 168));
-  border-radius: 2px;
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+              linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+              linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+  border-radius: 50px;
   border-style: solid;
-  border-color: rgb(46, 109, 65);
+  border-color: black;
   max-width: 99%;
 }
 
 .container2 .p2{
-  border-color: rgb(46, 109, 65);
+  border-color: black;
+  border-radius: 50px;
 }
 
 .container2 .btn{
@@ -53,12 +62,14 @@
 }
 
 .p2 {
-  padding: 5px;
-  border-radius: 2px;
+  padding: 15px;
+  border-radius: 50px;
   border-style: solid;
   border-color: black;
-  color: white;
+  color: black;
   margin: 5px;
-  font-weight: normal;
-  background: linear-gradient(to top, rgb(46, 109, 65), rgb(25, 0, 168));
+  font-weight: bold;
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+              linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+              linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
 }

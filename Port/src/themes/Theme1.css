@@ -1,39 +1,41 @@
 .Theme1{
-  background: linear-gradient(to top right, rgb(41, 41, 41), gold);
+  background: linear-gradient(to top right, black 40%, silver 60%, gold 80%);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2), -2px -2px 5px rgba(0, 0, 0, 0.2);
   min-height: 2000px;
   font-weight: bold;
+  color: black;
 }
 
 .accordion-item{
-  background: linear-gradient(black, gold);
-  color: white;
+  background: linear-gradient(silver 40%, gold 80%);
+  color: black;
   font-weight: normal;
 }
 
 .accordion-header{
-  background: linear-gradient(black,gold);
-  color: white;
+  background: linear-gradient( silver 40%, gold 80%);
+  color: black;
 }
 
 .accordion-button{
-  background: linear-gradient(black, gold);
-  color: white !important;
+  background: linear-gradient(black 10%, silver 40%, gold 80%);
+  color: black !important;
   font-weight: bold;
   
 }
 
 .accordion-collapse{
-  background: linear-gradient(to top right, #000000, #9b870c);
+  background: linear-gradient(to top right, black 40%, silver 60%, gold 80%);
 }
 
 .accordion-body{
-  background: linear-gradient(to bottom left, #000000, #9b870c);
+  background: linear-gradient(black, silver 50%, gold 80%);
+  
 }
 
 .btn {
-  background: linear-gradient(black, gold);
-  color: white;
+  background: linear-gradient(black, silver, gold);
+  color: black;
   font-weight: bold;
   padding: 5px;
   border-radius: 2px;
@@ -47,7 +49,7 @@
   text-align: center;
   color: white;
   font-weight: bold;
-  background: linear-gradient(black, gold);
+  background: linear-gradient(black 40%, silver 60%, gold 80%);
   min-height: 500px;
   border-radius: 2px;
   border-style: solid;
@@ -58,11 +60,11 @@
 .container2{
   margin-top: 5px;
   margin-bottom: 5px;
-  padding: 2px;
+  padding: 5px;
   text-align: center;
   color: white;
   font-weight: bold;
-  background: linear-gradient(black, gold);
+  background: linear-gradient(black, silver, gold);
   border-radius: 2px;
   border-style: solid;
   border-color: gold;
@@ -70,7 +72,9 @@
 }
 
 .container2 p{
-  border-color: gold;
+  padding: 10px;
+  border-color: silver;
+  background: black;
 }
 
 .container2 .btn{
@@ -78,13 +82,14 @@
   border-width: 3px;
 }
 
-p {
+.p1 {
   padding: 5px;
   border-radius: 2px;
   border-style: solid;
   border-color: black;
   color: white;
+  text-shadow: 2px 2px #000000;
   margin: 5px;
   font-weight: normal;
-  background: linear-gradient(to top, #000000, #9b870c);
+  background: linear-gradient(black, silver 50%, gold 80%);
 }

@@ -4,7 +4,7 @@ import '../themes/Theme4.css';
 function Theme4(){
   return (
     <div className="Theme4">
-      <h1>Beach Vibes, grey font 3 colors.</h1>
+      <h1>grey/silver/red single color boxes</h1>
       <Button className="btn4">
         Sample Button
       </Button>

@@ -10,7 +10,7 @@ function Theme1(){
       <h1>I love Goooold</h1>
       <AccordionPiece />
       <Button>
-        Sample Butto
+        Sample Button
       </Button>
       <Container className="container1">
         <Row>
